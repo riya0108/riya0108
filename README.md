@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on an object-following robot
 - 🌱 I’m currently learning ns3(Network Simulator)
 - 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with ns3
 - 💬 Ask me about Arduino or any tech related stuff
 - 📫 How to reach me: [LinkedIn - @riyateri](https://www.linkedin.com/in/riyateri/)
 - 😄 Pronouns: She/Her
