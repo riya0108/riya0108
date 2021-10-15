@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making responsive web apps
 - 👯 I’m looking to collaborate on GitHub
-- 💬 Ask me about any tech related stuff
 - 📫 How to reach me: [LinkedIn - @riyateri](https://www.linkedin.com/in/riyateri/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I do a lot of things
