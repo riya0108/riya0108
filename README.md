@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on making responsive web apps
+- 🔭 I’m currently working as a Data Analyst
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: [LinkedIn - @riyateri](https://www.linkedin.com/in/riyateri/)
 - 😄 Pronouns: She/Her
